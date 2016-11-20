@@ -23,6 +23,17 @@ Instead of using link function in Angular Directives, a better way of doing is u
 - = Scope: It tells the directive that the object passed into the new property should be two-way binding. If the outside property value changes, then the directive's customer property should be automatically updated.<br/>
 - & Scope: It allows you to invoke an expression, call an expression on parent scope or evaluate the expression.<br/>
 
+##Looks
+
+![Screenshot of Basic Telephone Directory](https://cloud.githubusercontent.com/assets/15896579/20466147/73131700-af93-11e6-9a30-4f8ccb7b699c.PNG?raw=true "Screenshot of Tredfashion Websites")
+<br/><br/><br/>
+
+![Screenshot of Basic Telephone Directory](https://cloud.githubusercontent.com/assets/15896579/20466148/7316d2a0-af93-11e6-88ad-bd9dcd48346f.PNG?raw=true "Screenshot of Tredfashion Websites")
+<br/><br/><br/>
+
+![Screenshot of Basic Telephone Directory](https://cloud.githubusercontent.com/assets/15896579/20466149/731a93a4-af93-11e6-8ee8-55d8111233e3.PNG?raw=true "Screenshot of Tredfashion Websites")
+<br/><br/><br/>
+
 ## License
 
 (The MIT License)
