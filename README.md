@@ -13,7 +13,7 @@ This Application uses the concept of Isolated Scope of Angular Directive. So all
 ## Installation
 
 1. Clone the repository
-2. Download and place Angular and Foundation Library in your cloned directory.
+2. Download and place Angular and Foundation Libraries in your cloned directory.
 3. Open the index.html page
 
 ##Tip
