@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Isolate Scope Small App</title>
+	<link rel="stylesheet" href="foundation.css">
+	<link rel="stylesheet" href="style.css">
+	<script src="angular.min.js"></script>
+</head>
+<body>
+		
+	<div class="phone" ng-app="phoneApp">
+		<center><h3>Basic Telephone Directory</h3></center>
+		<div ng-controller="AppCtrl">
+			<phone number="555-1234" network="network" make-call="leaveVoiceMail(number, message)"></phone>
+
+			<phone number="867-5309" network="network" make-call="leaveVoiceMail(number, message)"></phone>
+
+			<phone number="911" network="network" make-call="leaveVoiceMail(number, message)"></phone>
+		</div>
+	</div>
+
+<script src="main15.js"></script>
+</body>
+</html>
