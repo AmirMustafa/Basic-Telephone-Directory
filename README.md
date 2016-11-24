@@ -18,7 +18,7 @@ This Application uses the concept of Isolated Scope of Angular Directive. So all
 
 ##Tip
 For Guys new in Angular, Let me explain in short:<br/>
-Instead of using link function in Angular Directives, a better way of doing is using concept of Isolated Scopes. Now there are basically three differnt types of Isolated Scope.<br/>
+Instead of using link function in Angular Directives, a better way of doing is using concept of Isolated Scopes. Now there are basically three different types of Isolated Scope.<br/>
 - @ Scope: It tells the directive that the value passed into the new property will be accessed as a String.<br/>
 - = Scope: It tells the directive that the object passed into the new property should be two-way binding. If the outside property value changes, then the directive's customer property should be automatically updated.<br/>
 - & Scope: It allows you to invoke an expression, call an expression on parent scope or evaluate the expression.<br/>
